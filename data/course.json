@@ -1,0 +1,50 @@
+{
+  "term": "Fall",
+  "year": "2012",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "History",
+      "Ancient History"
+    ],
+    [
+      "Humanities",
+      "History",
+      "European History"
+    ]
+  ],
+  "legacy_uid": "47cecd5b-94ad-767c-1e87-e15c89f0109a",
+  "instructors": {
+    "content": [
+      "8c521847-16f5-21bc-8408-5eac239a4f7d",
+      "6443d9d8-ee82-be65-28f7-6fd13ac40b18",
+      "76a6056c-f20a-7291-9d81-6806006e70fe"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "abe76c6a-cc16-aaeb-268c-46c1e82947bf",
+    "website": "21h-007j-empire-introduction-to-ancient-and-medieval-studies-fall-2012"
+  },
+  "course_title": "Empire: Introduction to Ancient and Medieval Studies",
+  "course_description": "This course is an investigation of the Roman empire of Augustus, the Frankish empire of Charlemagne, and the English empire in the age of the Hundred Years War. Students examine different types of evidence, read across a variety of disciplines, and develop skills to identify continuities and changes in ancient and medieval societies. Each term this course is different, looking at different materials from a variety of domains to explore ancient and mideveal studies. This version is a capture of the course as it was taught in 2012, and does not reflect how it is taught currently.\n",
+  "department_numbers": [
+    "21H",
+    "21L"
+  ],
+  "extra_course_numbers": "21L.014J",
+  "primary_course_number": "21H.007J",
+  "course_image_thumbnail": {
+    "content": "4ec00e37-4172-d39f-a94d-a9b058e00675",
+    "website": "21h-007j-empire-introduction-to-ancient-and-medieval-studies-fall-2012"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "10948fc5-d307-44dd-97ea-f349fc7f581e",
+  "site_short_id": "21h.007j-fall-2012",
+  "title": "Course Metadata"
+}
